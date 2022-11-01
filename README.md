@@ -1,1 +1,2 @@
-# Заголовок 1 уровня
+# SpringBootFX
+Simple example for Spring Boot and JavaFX application 
