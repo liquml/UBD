@@ -1,2 +1,3 @@
-# Заголовок 1 уровня
-Active profile **nmi** sets i *application.yml*
+# SpringBootFX
+Simple example for Spring Boot and JavaFX application 
+
