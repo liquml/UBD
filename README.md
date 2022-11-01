@@ -3,6 +3,7 @@ Simple example for Spring Boot and JavaFX application
 
 Contains profiles:**default**,**nmi** and**aper**
 
+Active profile **nmi** sets in *application.yml*
 ```
 spring:
     main:
